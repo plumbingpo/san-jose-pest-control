@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pestcontrolsj.com/sitemap.xml
